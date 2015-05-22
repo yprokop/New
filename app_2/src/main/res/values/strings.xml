@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">app_2</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_aa">AAA</string>
+    <string name="title_activity_bbb">BBB</string>
+    <string name="title_activity_ccc">CCC</string>
+    <string name="text_aaa">AAA</string>
+    <string name="text_bbb">BBB</string>
+    <string name="text_ccc">CCC</string>
+
+</resources>
